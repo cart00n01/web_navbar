@@ -1,0 +1,29 @@
+      #first_box {
+        height: 28px;
+        margin: 10px;
+        padding: 6px;
+        border-radius: 50px;
+        background: linear-gradient(
+          60deg,
+          rgb(21, 82, 252) 23%,
+          rgb(247, 17, 209) 60%
+        );
+      }
+
+      .text_box {
+        height: 500px;
+        color: rgb(0, 0, 0);
+        border-radius: 50px;
+        padding: 12px;
+        margin: 0px 0px 0px -12px;
+        background: linear-gradient(
+          70deg,
+          rgb(83, 241, 62) 0%,
+          rgb(95, 227, 250) 33%,
+          rgb(223, 238, 241) 100%
+        );
+      }
+
+      .insideOne {
+        margin: 5px;
+      }
